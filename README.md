@@ -2,17 +2,12 @@
 
 ## I'm a Developer, Student and Writer!
 
-<!--
-**spiritual-coder/spiritual-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an [HTML, CSS, JavaScript] [website]!
 - 🌱 I’m currently learning Frontend Web Technologies
 - 👯 I’m looking to connect and collaborate with other content creators and developers
 - 🥅 2020 Goals: Contribute more to Open Source projects and publish my book
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... I love ice-creams
+
 
 ### Connect with me:
 
@@ -29,7 +24,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[cssplaylist]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
@@ -52,3 +48,4 @@ Here are some ideas to get you started:
 [webdevplaylist]: https://html.spec.whatwg.org/
 [jsplaylist]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [reactplaylist]: https://reactjs.org/docs/getting-started.html
+[cssplaylist]: https://developer.mozilla.org/en-US/docs/Web/CSS
