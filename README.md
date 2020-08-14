@@ -25,7 +25,6 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[cssplaylist]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
@@ -39,7 +38,7 @@
 <br />
 <br />
 
-[website]: https://spiritual-coder.io
+[website]: https://spiritual-coder.github.io
 [twitter]: https://twitter.com/gauravskaintura
 [youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
 [instagram]: https://instagram.com/gauravskaintura
