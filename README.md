@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 
@@ -30,9 +30,9 @@
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 
 <br />
@@ -43,7 +43,8 @@
 [youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
 [instagram]: https://instagram.com/gauravskaintura
 [linkedin]: https://linkedin.com/in/gauravskaintura
-[webdevplaylist]: https://html.spec.whatwg.org/
+[html]: https://html.spec.whatwg.org/
 [jsplaylist]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [reactplaylist]: https://reactjs.org/docs/getting-started.html
 [cssplaylist]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[github]: https://github.com/spiritual-coder
