@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student and Writer!
 
-- 🔭 I’m currently working on an [HTML, CSS, JavaScript] [website]!
+- 🔭 I’m currently working on an [HTML, CSS, JavaScript]
 - 🌱 I’m currently learning Frontend Web Technologies
 - 👯 I’m looking to connect and collaborate with other content creators and developers
 - 🥅 2020 Goals: Contribute more to Open Source projects and publish my book
@@ -29,7 +29,6 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
