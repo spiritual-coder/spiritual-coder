@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student and Writer!
 
-- 🔭 I’m currently working on an [HTML, CSS, JavaScript] website.
+- 🔭 I’m currently working on an [HTML, CSS, JavaScript] [website].
 - 🌱 I’m currently learning Frontend Web Technologies
 - 👯 I’m looking to connect and collaborate with other content creators and developers
 - 🥅 2020 Goals: Contribute more to Open Source projects and publish my book
@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[website]: https://spiritual-coder.github.io
+[website]: https://spiritual-coder.github.io/portfolio
 [twitter]: https://twitter.com/gauravskaintura
 [youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
 [instagram]: https://instagram.com/gauravskaintura
