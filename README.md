@@ -3,9 +3,9 @@
 ## I'm a Developer, Student and Writer!
 
 - 🔭 I’m currently working on an [HTML, CSS, JavaScript] [website].
-- 🌱 I’m currently learning Frontend Web Technologies
+- 🌱 I’m learning Frontend Web Technologies
 - 👯 I’m looking to connect and collaborate with other content creators and developers
-- 🥅 2020 Goals: Contribute more to Open Source projects and publish my book
+- 🥅 2020 Goals: Contribute to Open Source projects and publish my book
 - ⚡ Fun fact: ... I love ice-creams
 
 
