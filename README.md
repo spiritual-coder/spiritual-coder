@@ -40,8 +40,10 @@
 
 <br />
 
+<br />
+
 <a href="#">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spiritual-coder&show_icons=true&include_all_commits=true&theme=algolia" alt="Gaurav's GitHub Stats"/>
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spiritual-coder&show_icons=true&include_all_commits=true&theme=algolia" alt="Gaurav's GitHub Stats"/>
 </a>
 
 <br />
