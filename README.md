@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student and Writer!
 
-- 🔭 I’m currently working on an [HTML, CSS, JavaScript] [website].
+- 🔭 I’m currently working on my first [React] [website].
 - 🌱 I’m learning Frontend Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
 - 🥅 2020 Goals: Contribute to Open Source projects and write my next book
