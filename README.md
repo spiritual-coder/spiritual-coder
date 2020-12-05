@@ -48,7 +48,7 @@
 
 <br />
 
-[website]: https://spiritual-coder.github.io/portfolio
+[website]: #
 [twitter]: https://twitter.com/gauravskaintura
 [youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
 [instagram]: https://instagram.com/gauravskaintura
