@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on an [HTML, CSS, JavaScript] [website].
 - 🌱 I’m learning Frontend Web Technologies
-- 👯 I’m looking to connect and collaborate with other content creators and developers
-- 🥅 2020 Goals: Contribute to Open Source projects and publish my book
+- 👯 I’m looking to connect and collaborate with other developers
+- 🥅 2020 Goals: Contribute to Open Source projects and write my next book
 - ⚡ Fun fact: ... I love ice-creams
 
 
@@ -39,6 +39,11 @@
 
 
 <br />
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=spiritual-coder&show_icons=true&include_all_commits=true&theme=algolia" alt="Gaurav's GitHub Stats"/>
+</a>
+
 <br />
 
 [website]: https://spiritual-coder.github.io/portfolio
