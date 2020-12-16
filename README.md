@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my first [React] [website].
 - 🌱 I’m learning Frontend Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
-- 🥅 2020 Goals: Contribute to Open Source projects and write my next book
+- 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
 - ⚡ Fun fact: ... I love ice-creams
 
 
@@ -50,7 +50,7 @@
 
 <br />
 
-[website]: #
+[website]: https://imdb-react-app.netlify.app/
 [twitter]: https://twitter.com/gauravskaintura
 [youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
 [instagram]: https://instagram.com/gauravskaintura
