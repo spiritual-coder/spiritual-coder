@@ -3,7 +3,7 @@
 ## I'm a Developer, Student and Writer!
 
 - 🔭 I’m currently working on my first [React] [website].
-- 🌱 I’m learning Frontend Web Technologies
+- 🌱 I’m learning Full Stack Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
 - 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
 - ⚡ Fun fact: ... I love ice-creams
