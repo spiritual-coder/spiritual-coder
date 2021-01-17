@@ -6,7 +6,7 @@
 - 🌱 I’m learning Full Stack Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
 - 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
-- ⚡ Fun fact: ... I love ice-creams
+- ⚡ Fun fact: ... I love ice-creams and solving calculas problems
 
 
 ### Connect with me:
