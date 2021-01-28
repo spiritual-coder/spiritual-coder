@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Student and Writer!
 
-- 🔭 I’m currently working on my first [React] [website].
+- 🔭 I’m currently working on my Portfolio [website].
 - 🌱 I’m learning Full Stack Web Technologies
 - 👯 I’m looking to connect and collaborate with other developers
 - 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
@@ -50,7 +50,7 @@
 
 <br />
 
-[website]: https://imdb-react-app.netlify.app/
+[website]: https://gauravskaintura.netlify.app/
 [twitter]: https://twitter.com/gauravskaintura
 [youtube]: https://www.youtube.com/channel/UCSpdSgYcvw5yosiA2rihizw?
 [instagram]: https://instagram.com/gauravskaintura
