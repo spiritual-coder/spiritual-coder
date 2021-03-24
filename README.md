@@ -8,6 +8,17 @@
 - 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
 - ⚡ Fun fact: ... I love solving calculas
 
+### List of front-end projects:
+
+- [TravelInsta](https://travelinsta.netlify.app/)
+- [IMDB Website Clone](https://imdb-app-clone.netlify.app/)
+- [Facebook Home Page](https://facebook-react-clone.netlify.app/)
+- [IMDB React App](https://imdb-react-app.netlify.app/)
+- [Daily Newswrap](https://javascript-assessment.netlify.app/)
+- [Khareedo.com - an ecommerce landing page](https://spiritual-coder-assignment.netlify.app/)
+- [Portfolio Website](https://spiritual-coder.github.io/portfolio/)
+
+
 
 ### Connect with me:
 
