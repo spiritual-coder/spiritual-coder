@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Student and Writer!
 
-- 🔭 I’m currently working on Satsang Diksha website.
-- 🌱 I’m learning SQL
+- 🔭 I’m currently working on HTML, CSS websites.
+- 🌱 I’m learning Typescript
 - 👯 I’m looking to connect and collaborate with other developers
 - 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
 - ⚡ Fun fact: ... I love solving calculas
