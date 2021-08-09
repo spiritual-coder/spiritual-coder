@@ -12,7 +12,7 @@
 
 - Satsang Diksha website is live now
   [Satsang Diksha](http://satsangdiksha.netlify.app/)
-
+- [The Yellow Folio](https://the-yellow-folio.netlify.app/)
 - [TravelInsta](https://travelinsta.netlify.app/)
 - [IMDB Website Clone](https://imdb-app-clone.netlify.app/)
 - [Facebook Home Page](https://facebook-react-clone.netlify.app/)
