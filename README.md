@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello Pal 👋
 
-## I'm a Developer, Student and Writer!
+## I'm a Developer, Storyteller and Linguaphile
 
-- 🔭 I’m currently working on HTML, CSS websites.
-- 🌱 I’m learning Typescript
-- 👯 I’m looking to connect and collaborate with other developers
-- 🥅 2021 Goals: To roam different cities, writing books, creating beautiful UIs and playing ukulele
+- 🔭 I’m currently working on HTML, CSS websites
+- 🌱 I’m learning Full Stack
+- 👯 I’m looking to connect and collaborate with other like minded community and people
+- 🥅 2022 Goals: To roam different villages, start vlogging, reading and writing more books, creating beautiful UIs
 - ⚡ Fun fact: ... I love solving calculas
 
 ### List of front-end projects:
