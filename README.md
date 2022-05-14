@@ -2,10 +2,10 @@
 
 ## I'm a Developer, Storyteller and Linguaphile
 
-- 🔭 I’m currently working on HTML, CSS websites
-- 🌱 I’m learning Full Stack
+- 🔭 I’m currentlylearning SAP ABAP and BRF+
+- 🌱 I’m interested to go into Full Stack Development
 - 👯 I’m looking to connect and collaborate with other like minded community and people
-- 🥅 2022 Goals: To roam different villages, start vlogging, reading and writing more books, creating beautiful UIs
+- 🥅 2022 Goals: To roam different villages, reading and writing more books, creating beautiful UIs
 - ⚡ Fun fact: ... I love solving calculas
 
 ### List of front-end projects:
