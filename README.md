@@ -21,7 +21,9 @@
 - [Khareedo.com - an ecommerce landing page](https://spiritual-coder-assignment.netlify.app/)
 - [Portfolio Website](https://spiritual-coder.github.io/portfolio/)
 
+### Other accounts:
 
+- [@gauravskaintura](https://github.com/gauravskaintura/)
 
 ### Connect with me:
 
